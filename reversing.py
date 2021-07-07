@@ -25,6 +25,6 @@ def reversing(input_l):
 
 
 
-input_l = [[1, [2, 5]], [3, 4], [5, 6, 7]]
+input_l = [[1, 2], [3, 4], [5, 6, 7]]
 
 print(reversing(input_l))
